@@ -1,0 +1,1 @@
+var talent=document.querySelector("vanakam da mapla")
